@@ -19,4 +19,4 @@ DETAILS
 El nav-var hace la misma funcion que en las anteriores páginas.
 En esta pagina nos sale la marca del objeto, su descripción y su precio. El botón del carrito no hace nada tal y como dice la actividad.
 
-Para darle estilos a la página se ha usdo Bootstrap.
+Para darle estilos a la página se ha usado Bootstrap.
